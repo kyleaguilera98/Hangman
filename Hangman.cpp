@@ -272,7 +272,7 @@ bool checkguess(vector<char> letbank,
 
 int main()
 {
-  string word = "apple";
+  string word = "developer";
   int lives = 7;
   char guessedletter;
   vector<char> wordchar = upperchar(word); // guessing word
